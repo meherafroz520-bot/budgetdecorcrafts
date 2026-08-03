@@ -210,7 +210,7 @@ const posts = [
         id: "11",
         title: "10 Easy Free Crochet Bat Patterns for Beginners & Cozy Home Decor",
         category: "Crafts",
-        image: "https://images.unsplash.com/photo-1508873696983-2df515122519?w=600",
+        image: "https://i.ibb.co.com/xS1GDFxC/Chat-GPT-Image-Aug-3-2026-02-43-16-PM.png",
         summary: "Discover adorable and quick crochet bat patterns perfect for Halloween decor, plush toys, and handmade spooky gifts.",
         content: `
             <p>Looking for a fun, quick, and spooky yarn project? Whether you are getting ready for Halloween decor, crafting unique gifts, or just love cute amigurumi creatures, these <strong>free crochet bat patterns</strong> are the ultimate weekend DIY project for yarn lovers in the United States!</p>
